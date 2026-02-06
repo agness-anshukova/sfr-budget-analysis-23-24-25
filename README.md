@@ -32,8 +32,8 @@ The analysis demonstrates skills in **data cleaning, exploratory data analysis (
 ## How to Run This Project
 
 1. **Clone the repo**
-   ```sh
-   git clone https://github.com/agness-anshukova/sfr-budget-analysis-23-24-25.git
+```sh
+git clone https://github.com/agness-anshukova/sfr-budget-analysis-23-24-25.git
 
 2. **Create a virtual environment**
 
@@ -46,22 +46,15 @@ venv\Scripts\activate      # Windows
 ```sh
 pip install -r requirements.txt
 
-
 4. **Open the notebook in Jupyter**
 ```sh
 jupyter notebook
 
 
-5. **Run the notebook cells to explore cleaning steps, analysis, and charts.**
-Limitations
+## Limitations
 2023–2024 data is aggregated
 Expense side of the budget not analyzed (no machine-readable source)
 Negative values represent adjustments/returns
-
-Contact
-If you have questions, suggestions, or want to collaborate, feel free to reach out:
-Email: your.email@example.com
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ## Note
 The Jupyter notebook contains comments and visualizations in Russian.
