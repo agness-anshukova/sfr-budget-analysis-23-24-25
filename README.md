@@ -22,34 +22,10 @@ The analysis demonstrates skills in **data cleaning, exploratory data analysis (
 
 ## Key Insights (Summary)
 
-*These are examples — update with your actual findings:*
-
 - Identified **top revenue categories by period**
 - Compared official total revenue with detailed category totals
 - Highlighted categories with the most significant change trends
 - Created clear visualizations showing revenue dynamics
-
-## How to Run This Project
-
-1. **Clone the repo**
-```sh
-git clone https://github.com/agness-anshukova/sfr-budget-analysis-23-24-25.git
-
-2. **Create a virtual environment**
-
-```sh
-python -m venv venv
-source venv/bin/activate   # MacOS/Linux
-venv\Scripts\activate      # Windows
-
-3. **Install dependencies**
-```sh
-pip install -r requirements.txt
-
-4. **Open the notebook in Jupyter**
-```sh
-jupyter notebook
-
 
 ## Limitations
 2023–2024 data is aggregated
@@ -59,3 +35,20 @@ Negative values represent adjustments/returns
 ## Note
 The Jupyter notebook contains comments and visualizations in Russian.
 Key insights and project summary are provided in this README in English.
+
+## How to Run This Project
+
+1. **Clone the repo**
+git clone https://github.com/agness-anshukova/sfr-budget-analysis-23-24-25.git
+
+2. **Create a virtual environment**
+python -m venv venv
+source venv/bin/activate   # MacOS/Linux
+venv\Scripts\activate      # Windows
+
+3. **Install dependencies**
+pip install -r requirements.txt
+
+4. **Open the notebook in Jupyter**
+jupyter notebook
+
