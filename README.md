@@ -28,9 +28,9 @@ The analysis demonstrates skills in **data cleaning, exploratory data analysis (
 - Created clear visualizations showing revenue dynamics
 
 ## Limitations
-2023–2024 data is aggregated
-Expense side of the budget not analyzed (no machine-readable source)
-Negative values represent adjustments/returns
+- 2023–2024 data is aggregated
+- Expense side of the budget not analyzed (no machine-readable source)
+- Negative values represent adjustments/returns
 
 ## Note
 The Jupyter notebook contains comments and visualizations in Russian.
