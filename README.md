@@ -1,54 +1,18 @@
-# SFR Budget Revenue Analysis (2023–2025)
+# Анализ бюджета (Python, SQL)
 
-## Project Overview
+## Описание
+Проект по анализу пользовательского бюджета с использованием Python и SQL. Основная цель — изучение структуры расходов и выявление ключевых категорий затрат.
 
-This project analyzes the **structure and dynamics of the revenue side of the Social Fund of Russia (SFR) budget** for 2023–2025. The goal is to explore revenue composition, identify key revenue sources, and visualize trends over time.
+## Что сделано
+- проведена очистка и подготовка данных  
+- выполнен анализ расходов по категориям  
+- рассчитаны агрегированные показатели  
+- выявлены основные статьи затрат  
 
-The analysis demonstrates skills in **data cleaning, exploratory data analysis (EDA), visualization, and storytelling with data** using Python and Pandas.
+## Инструменты
+Python (pandas), SQL
 
-## Tech Stack
-
-- Python  
-- Jupyter Notebook  
-- Pandas  
-- Matplotlib / Seaborn  
-- CSV data files
-
-## Data Summary
-
-- Source: Public SFR CSV data (revenue figures)
-- Time Range: 2023–2025
-- Focus: Revenue categories and changes over time
-
-## Key Insights (Summary)
-
-- Identified **top revenue categories by period**
-- Compared official total revenue with detailed category totals
-- Highlighted categories with the most significant change trends
-- Created clear visualizations showing revenue dynamics
-
-## Limitations
-- 2023–2024 data is aggregated
-- Expense side of the budget not analyzed (no machine-readable source)
-- Negative values represent adjustments/returns
-
-## Note
-The Jupyter notebook contains comments and visualizations in Russian.
-Key insights and project summary are provided in this README in English.
-
-## How to Run This Project
-
-1. **Clone the repo**
-git clone https://github.com/agness-anshukova/sfr-budget-analysis-23-24-25.git
-
-2. **Create a virtual environment**
-python -m venv venv
-source venv/bin/activate   # MacOS/Linux
-venv\Scripts\activate      # Windows
-
-3. **Install dependencies**
-pip install -r requirements.txt
-
-4. **Open the notebook in Jupyter**
-jupyter notebook
-
+## Результат
+- получена структура расходов  
+- выявлены ключевые категории затрат  
+- подготовлены данные для дальнейшей аналитики
